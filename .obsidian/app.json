@@ -1,5 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "images",
+  "alwaysUpdateLinks": true
 }
