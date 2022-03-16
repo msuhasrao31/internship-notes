@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Training start- Platform Engineering - basics of cloud computing.md",
+            "file": "4. Azure basics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Training start- Platform Engineering - basics of cloud computing.md",
+                "file": "4. Azure basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "54b20b2c65847316",
   "lastOpenFiles": [
+    "4. Azure basics.md",
+    "contents.md",
     "3. Training start- Platform Engineering - basics of cloud computing.md",
     "1.Tools.md",
     "images/cloud service models.JPG",
     "2. Needs of Internship.md",
-    "contents.md",
     "typical app layers 1.jpg",
     "typical app layers.jpg",
     "Pasted image 20220314121252.png",
-    "Pasted image 20220314121347.png",
-    "Tools.md"
+    "Pasted image 20220314121347.png"
   ]
 }
